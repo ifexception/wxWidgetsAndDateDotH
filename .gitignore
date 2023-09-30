@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Visual Studio CMake build
+build/*
+
 # User-specific files
 *.rsuser
 *.suo
